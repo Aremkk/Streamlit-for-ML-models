@@ -1,0 +1,8 @@
+streamlit
+diffusers
+transformers
+accelerate
+torch
+torchvision
+safetensors
+pillow
